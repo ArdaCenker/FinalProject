@@ -29,7 +29,7 @@ namespace WebAPI.Controllers
         public IActionResult GetAll()
         {
             //Swagger
-            //Dependecy chain -- bağımlılık zinciri
+            //Dependecy chain - bağımlılık zinciri
             var result = _productService.GetAll();
             if (result.Success)
             {
