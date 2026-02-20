@@ -1,7 +1,3 @@
-İşte Entity Framework, JWT, Autofac, FluentValidation ve Swagger gibi bu mimaride standart olarak kullanılan tüm teknolojileri, veritabanı migration adımlarını ve gereksinimleri içeren, eksiksiz, profesyonel README dosyası.
-
-Aşağıdaki bloğun sağ üst köşesindeki "Kopyala" butonuna basarak doğrudan GitHub'a yapıştırabilirsin:
-
 # FinalProject
 
 ## 📝 About The Project
